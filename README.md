@@ -16,8 +16,8 @@ O **Sivida Neural Model** realiza as seguintes tarefas:
 
 1. Clone o repositório:
    ```bash
-   git clone <https://github.com/WillianRullian/SIVIDA>
-   cd <SIVIDA>
+   git clone https://github.com/WillianRullian/SIVIDA
+   cd SIVIDA
    ```
 
 2. Instale as dependências (recomenda-se usar um ambiente virtual):
